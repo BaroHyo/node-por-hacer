@@ -1,0 +1,14 @@
+[
+    {
+        "descripcion": "Estudiar scrum",
+        "completado": "true"
+    },
+    {
+        "descripcion": "Dar exemane",
+        "completado": false
+    },
+    {
+        "descripcion": "Comprar chicles",
+        "completado": false
+    }
+]
